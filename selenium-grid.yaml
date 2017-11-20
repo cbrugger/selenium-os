@@ -90,7 +90,7 @@ objects:
       contextDir: selenium-node-firefox
       type: Git
       git:
-        uri: https://github.com/jr00n/selenium-os
+        uri: https://github.com/cbrugger/selenium-os
         ref: master
     strategy:
       type: Docker
@@ -189,7 +189,7 @@ objects:
       contextDir: selenium-node-chrome
       type: Git
       git:
-        uri: https://github.com/jr00n/selenium-os
+        uri: https://github.com/cbrugger/selenium-os
         ref: master
     strategy:
       type: Docker
